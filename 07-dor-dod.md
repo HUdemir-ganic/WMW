@@ -1,4 +1,4 @@
-[← Terug naar de inhoudsopgave](../README.md)
+[← Terug naar de inhoudsopgave](README.md)
 
 # 7. Definition of Ready en Definition of Done
 
