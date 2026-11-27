@@ -1,4 +1,4 @@
-[← Terug naar de inhoudsopgave](../README.md)
+[← Terug naar de inhoudsopgave](README.md)
 
 # 8. Domeinmodel
 
