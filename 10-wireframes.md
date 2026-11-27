@@ -1,4 +1,4 @@
-[← Terug naar de inhoudsopgave](../README.md)
+[← Terug naar de inhoudsopgave](README.md)
 
 # 10. Wireframes
 
@@ -6,7 +6,7 @@ Een wireframe is een simpele schets van een scherm, zonder kleuren of huisstijl.
 
 ## 10.1 Dashboard met mijn apparaten (user story 4)
 
-![Wireframe dashboard](../img/wireframe-01.png)
+![Wireframe dashboard](wireframe-01.png)
 
 *Figuur 10.1. Het startscherm met de apparaten van de klant.*
 
@@ -20,7 +20,7 @@ Een wireframe is een simpele schets van een scherm, zonder kleuren of huisstijl.
 
 ## 10.2 Apparaat registreren met een QR-code (user story 3)
 
-![Wireframe apparaat registreren](../img/wireframe-02.png)
+![Wireframe apparaat registreren](wireframe-02.png)
 
 *Figuur 10.2. Een apparaat registreren door de QR-code te scannen.*
 
@@ -34,7 +34,7 @@ Een wireframe is een simpele schets van een scherm, zonder kleuren of huisstijl.
 
 ## 10.3 Probleem melden (user story 5)
 
-![Wireframe probleem melden](../img/wireframe-03.png)
+![Wireframe probleem melden](wireframe-03.png)
 
 *Figuur 10.3. Een probleem melden met foto's.*
 
@@ -48,7 +48,7 @@ Een wireframe is een simpele schets van een scherm, zonder kleuren of huisstijl.
 
 ## 10.4 Status van mijn melding volgen (user story 7)
 
-![Wireframe status volgen](../img/wireframe-04.png)
+![Wireframe status volgen](wireframe-04.png)
 
 *Figuur 10.4. De tijdlijn van een melding.*
 
@@ -62,7 +62,7 @@ Een wireframe is een simpele schets van een scherm, zonder kleuren of huisstijl.
 
 ## 10.5 Chatbot en live chat (user story 8 en 11)
 
-![Wireframe chatbot](../img/wireframe-05.png)
+![Wireframe chatbot](wireframe-05.png)
 
 *Figuur 10.5. Een gesprek met de chatbot, met de keuze voor een live chat.*
 
@@ -76,7 +76,7 @@ Een wireframe is een simpele schets van een scherm, zonder kleuren of huisstijl.
 
 ## 10.6 Weekplan van de AI-coach (user story 9)
 
-![Wireframe AI-coach](../img/wireframe-06.png)
+![Wireframe AI-coach](wireframe-06.png)
 
 *Figuur 10.6. Het scherm van de AI-coach met het advies van vandaag en het weekplan.*
 
