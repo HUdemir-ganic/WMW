@@ -1,4 +1,4 @@
-[← Terug naar de inhoudsopgave](../README.md)
+[← Terug naar de inhoudsopgave](README.md)
 
 # 2. Organisatorische context
 
@@ -42,7 +42,7 @@ Wij beschrijven onze cultuur met de vijf dimensies van Hofstede (Hofstede et al.
 
 ## 2.4 Organisatiestructuur en organogram
 
-![Organogram Watch My Watch](../img/organogram.png)
+![Organogram Watch My Watch](organogram.png)
 
 *Figuur 2.1. Het organogram van Watch My Watch.*
 
