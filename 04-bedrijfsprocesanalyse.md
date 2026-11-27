@@ -1,4 +1,4 @@
-[← Terug naar de inhoudsopgave](../README.md)
+[← Terug naar de inhoudsopgave](README.md)
 
 # 4. Bedrijfsprocesanalyse
 
@@ -22,7 +22,7 @@ De app raakt veel processen, maar wij kiezen voor het proces **melding tot oplos
 
 ## 4.3 Huidige situatie (Ist)
 
-![Huidig proces](../img/ist-proces.png)
+![Huidig proces](ist-proces.png)
 
 *Figuur 4.1. Melding tot oplossing, huidige situatie. De rode stappen zijn knelpunten.*
 
@@ -45,7 +45,7 @@ Het eerste, tweede en laatste knelpunt lossen wij al deels op met Odoo Helpdesk 
 
 ## 4.5 Gewenste situatie (Soll)
 
-![Gewenst proces](../img/soll-proces.png)
+![Gewenst proces](soll-proces.png)
 
 *Figuur 4.2. Melding tot oplossing, gewenste situatie met de app. De groene stappen zijn nieuw. Een taak met een tandwiel voert een systeem uit, een taak met een poppetje een medewerker.*
 
